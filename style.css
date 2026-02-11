@@ -73,7 +73,7 @@ nav > .wrapper {
 * Header
 */
 header {
-    background: url('../images/Background.jpg');
+    background: url('Background.jpg');
     height: 100vh;
     background-position: center;
     background-size: cover;
@@ -1013,4 +1013,5 @@ h2 {
 .input-group.textarea i {
   top: 20px;
   transform: none;
+
 }
